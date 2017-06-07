@@ -64,9 +64,7 @@ speller:
     - derive/Er/e/
     - derive/ere/e/
     - derive/uAinn/uan/
-    - derive/muai/mai/	#「糜妹」市區又讀mai
-    - derive/([hk])uainn/uann/	#市區
-    - derive/([hk])uainn/uenn/
+    - derive/uainn/uenn/	#南靖
     - derive/iO/oo/
     - derive/U/i/
     - derive/aInn/an/
