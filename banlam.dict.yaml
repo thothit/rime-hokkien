@@ -3717,7 +3717,7 @@ use_preset_vocabulary: false
 案情	an cing
 案頭	an thau
 案底	an tere
-案例	an le
+案例
 遏折	an cih
 遏斷	at tuInn
 揠苗助長	at biau coo tIang
@@ -5566,8 +5566,7 @@ use_preset_vocabulary: false
 調	tiau7
 掉	tiau7	10
 挑	thiau1
-刁	thiau1	1%
-超	thiau1	0%
+刁	thiau1	1%	
 窕	thiau2
 跳	thiau3
 糶	thiau3	0%
@@ -5638,6 +5637,7 @@ use_preset_vocabulary: false
 憔	ciau5
 瞧	ciau5
 超	chiau1
+超	thiau1	#漳
 搜	chiau1
 鍬	chiau1
 悄	chiau2
@@ -5811,7 +5811,7 @@ use_preset_vocabulary: false
 條目	tiau bok
 條款	tiau khuan
 條規	tiau kui
-條例	tiau le
+條例
 條直	tiau tit
 條文	tiau bun
 牢牢	tiau tiau
@@ -5979,26 +5979,25 @@ use_preset_vocabulary: false
 褿攏
 樵夫	ciau hu
 憔悴	ciau cui
-超市	chiau chi
-超級	chiau khip
-超級	chiau kip
-超度	chiau too
-超脫	chiau thuat
-超升	chiau sing
-超生	chiau sing
-超群	chiau kun
-超絕	chiau cuat
-超凡	chiau huan
-超然	chiau jian
-超人	chiau jin
-超速	chiau sok
-超載	chiau cai
-超音波	chiau im pho
-超越	chiau uat
-超生	chiau senn
+超市
+超級
+超度
+超脫
+超升
+超生
+超群
+超絕
+超凡
+超然
+超人
+超速
+超載
+超音波
+超越
 超過	chiau ker
-超出	chiau chut
-超時	ciau si
+超過	thiau ker
+超出
+超時
 撨徙
 撨撥
 撨臺
@@ -7893,6 +7892,7 @@ use_preset_vocabulary: false
 前言	cian gian
 前人	cian jin
 前例	cian le
+前例	cian li
 前鋒	cian hong
 前沿	cian ian
 前緣	cian ian
@@ -10215,6 +10215,7 @@ use_preset_vocabulary: false
 捲土重來	kuan thoo tiong lai
 慣用	kuan ing
 慣例	kuan le
+慣例	kuan li
 罐頭	kuan thau
 罐仔	kuan a
 灌木	kuan bok
@@ -10523,7 +10524,7 @@ use_preset_vocabulary: false
 凡勢	huan se
 凡若	huan na
 範圍	huan ui
-範例	huan le
+範例
 犯法	huan huat
 犯罪	huan cue
 犯規	huan kui
@@ -11274,6 +11275,7 @@ use_preset_vocabulary: false
 梨	le5
 黎	le5
 例	le7	10
+例	li7	10	#漳
 麗	le7
 厲	le7
 勵	le7
@@ -11430,7 +11432,7 @@ use_preset_vocabulary: false
 體格	the keeh
 體式	the sik
 體勢	the se
-體例	the le
+體例
 體諒	the lIang
 體態	the thai
 體貼	the thiap
@@ -11500,6 +11502,7 @@ use_preset_vocabulary: false
 黎民	le bin
 黎民百姓	le bin peeh senn
 例外	le gua
+例外	li gua
 麗斗	le tau
 厲鬼	le kui
 厲害	le hai
@@ -11691,6 +11694,7 @@ use_preset_vocabulary: false
 病床	penn chng
 病患	penn huan
 病例	penn le
+病例	penn li
 病理	penn li
 病菌	penn khun
 病歷	penn lik
@@ -12667,7 +12671,7 @@ use_preset_vocabulary: false
 比範	pi pan
 比喻	pi jU
 比照	pi ciau
-比例	pi le
+比例
 比並
 比長論短	pi tng lun tor
 比率	pi lut
@@ -15608,6 +15612,7 @@ use_preset_vocabulary: false
 親近	chin kern
 親骨肉	chin kut jiok
 親情五十	chin ciann goo cap
+親情五月	chin ciann goo gueh	#漳
 親族	chin cok
 親和	chin ho
 親和力	chin ho lik
@@ -15963,6 +15968,7 @@ use_preset_vocabulary: false
 實體	sit the
 實踐	sit cian
 實例	sit le
+實例	sit li
 實況	sit hong
 實地	sit tere
 翼股	sit koo
@@ -16914,7 +16920,7 @@ use_preset_vocabulary: false
 訂做	ting co
 訂閱
 特別	tik piat
-特例	tik le
+特例
 特有	tik iu
 特色	tik sik
 特徵	tik ting
@@ -18279,7 +18285,7 @@ use_preset_vocabulary: false
 違背	ui pue
 違禁	ui kim
 違禁品	ui kim phin
-違例	ui le
+違例
 違憲	ui hian
 違規	ui kui
 違法	ui huat
@@ -20236,8 +20242,9 @@ use_preset_vocabulary: false
 舉動	kir tong
 舉荐	kir cian
 舉辦	kir pan
-舉例	kir le
+舉例
 舉一个例	kir cit e le
+舉一个例	kir cit e li
 舉出	kir chut
 舉報	kir po
 矩形	kir hing
@@ -27326,7 +27333,7 @@ use_preset_vocabulary: false
 俗貨	siok her
 俗字	siok ji
 俗價	siok kee
-俗例	siok le
+俗例
 俗名	siok mia
 俗話	siok uee
 俗世	siok se
@@ -27404,7 +27411,6 @@ use_preset_vocabulary: false
 韭	ku2
 句	ku3	10
 灸	ku3
-衢	ku5
 舅	ku6
 舊	ku7	10
 咕	kuh8
@@ -27861,6 +27867,7 @@ use_preset_vocabulary: false
 舊款	ku kuan
 舊落落	ku lak lak
 舊例	ku le
+舊例	ku li
 舊名	ku mia
 舊年	ku ni
 舊年冬	ku ni tang
@@ -28234,7 +28241,8 @@ use_preset_vocabulary: false
 縷	lU2	
 屢	lU2	
 褸	lU2	
-俱	kU1	
+俱	kU1
+衢	kU5	
 具	kU7	
 懼	kU7	
 區	khU1	
@@ -29253,7 +29261,7 @@ use_preset_vocabulary: false
 論壇	lun tuann
 論點	lun tiam
 律法	lut huat
-律例	lut le
+律例
 律令	lut ling
 律師	lut sur
 律詩	lut si
@@ -32881,7 +32889,7 @@ use_preset_vocabulary: false
 湖州	oo ciu
 紹興	siau hing
 金華	kim hua
-衢州	gu ciu
+衢州	kU ciu
 舟山	ciu suann
 台州	thai ciu
 麗水	le sui
@@ -33092,6 +33100,7 @@ use_preset_vocabulary: false
 水獺	cui thuah
 銀魚	gern hIR
 江瑤柱	kang iau cu
+江瑤柱	kang liau cu
 海䖳	hai thee
 番䖳	huan thee
 鯧仔魚	chiunn a hIR
