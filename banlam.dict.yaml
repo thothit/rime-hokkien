@@ -20332,57 +20332,57 @@ use_preset_vocabulary: false
 許可	hir khonn
 許可證	hir kho cing
 許可證	hir khonn cing
-魚仔	HIR a
-魚頭	HIR thau
-魚骨	HIR kut
-魚仁	HIR jin
-魚目睭	HIR bak ciu
-魚尾	HIR ber
-魚肉	HIR bah
-魚肉	HIR hik
-魚刺	HIR chi
-魚翅	HIR chi
-魚市	HIR chi
-魚臊	HIR cho
-魚鉤	HIR kau
-魚罾	HIR can
-魚蝦水卒	HIR hee cui cut
-魚巴	HIR pa
-魚脯	HIR poo
-魚油	HIR iu
-魚肝油	HIR kuann iu
-魚鰭	HIR ki
-魚架仔	HIR kee a
-魚鱗	HIR lan
-魚膎	HIR kere
-魚籃	HIR na
-魚卵	HIR nuI
-魚雷	HIR lui
-魚丸	HIR uan
-魚肚	HIR too
-魚池	HIR ti
-魚翼	HIR sit
-魚腐	HIR hu
-魚餌	HIR ji
-魚鰾	HIR pio
-魚藤	HIR tin
-魚釣仔	HIR tio a
-魚栽	HIR cai
-魚鰓	HIR chi
-魚鮮	HIR chinn
-魚子	HIR ci
-魚塭	HIR un
-漁民	HIR bin
-漁船	HIR cun
-漁業	HIR giap
-漁村	HIR chuan
-漁村	HIR chuInn
-漁村	HIR chun
-漁場	HIR tiunn
-漁會	HIR hue
-漁網	HIR bang
-漁港	HIR kang
-漁戶	HIR hoo
+魚仔	hIR a
+魚頭	hIR thau
+魚骨	hIR kut
+魚仁	hIR jin
+魚目睭	hIR bak ciu
+魚尾	hIR ber
+魚肉	hIR bah
+魚肉	hIR hik
+魚刺	hIR chi
+魚翅	hIR chi
+魚市	hIR chi
+魚臊	hIR cho
+魚鉤	hIR kau
+魚罾	hIR can
+魚蝦水卒	hIR hee cui cut
+魚巴	hIR pa
+魚脯	hIR poo
+魚油	hIR iu
+魚肝油	hIR kuann iu
+魚鰭	hIR ki
+魚架仔	hIR kee a
+魚鱗	hIR lan
+魚膎	hIR kere
+魚籃	hIR na
+魚卵	hIR nuI
+魚雷	hIR lui
+魚丸	hIR uan
+魚肚	hIR too
+魚池	hIR ti
+魚翼	hIR sit
+魚腐	hIR hu
+魚餌	hIR ji
+魚鰾	hIR pio
+魚藤	hIR tin
+魚釣仔	hIR tio a
+魚栽	hIR cai
+魚鰓	hIR chi
+魚鮮	hIR chinn
+魚子	hIR ci
+魚塭	hIR un
+漁民	hIR bin
+漁船	hIR cun
+漁業	hIR giap
+漁村	hIR chuan
+漁村	hIR chuInn
+漁村	hIR chun
+漁場	hIR tiunn
+漁會	hIR hue
+漁網	hIR bang
+漁港	hIR kang
+漁戶	hIR hoo
 書包	cir pau
 書架	cir kee
 書架仔	cir kee a
@@ -33393,6 +33393,9 @@ use_preset_vocabulary: false
 水蜜桃	cui bit tho
 芳瓜	phang kuee
 石榴	siah liu
+石榴	seeh liu
+石榴	sia liu
+石榴	cioh liu
 刀蓮	to ni
 ##	花草
 櫻花	ing huee
