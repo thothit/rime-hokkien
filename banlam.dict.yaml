@@ -1192,6 +1192,7 @@ use_preset_vocabulary: false
 大量	tai lIang
 大不了	tai put liau
 大部份
+大部分
 大多數
 大使	tai sai
 大丈夫	tai tIang hu
@@ -12262,7 +12263,7 @@ use_preset_vocabulary: false
 匕	pi2
 妣	pi2
 庇	pi3
-秘	pi3	10
+祕	pi3	10
 費	pi3	5%
 閉	pi3	10
 臂	pi3
@@ -12691,13 +12692,13 @@ use_preset_vocabulary: false
 匕首	pi siu
 庇佑	pi iu
 庇護	pi hoo
-秘密	pi bit
-秘書	pi sir
-秘方	pi hng
-秘結	pi kiat
-秘笈	pi kip
-秘訣	pi kuat
-秘步	pi poo
+祕密	pi bit
+祕書	pi sir
+祕方	pi hng
+祕結	pi kiat
+祕笈	pi kip
+祕訣	pi kuat
+祕步	pi poo
 閉思	pi sur
 閉幕	pi boo
 閉幕式	pi boo sik
@@ -22418,6 +22419,7 @@ use_preset_vocabulary: false
 佈道
 蒲草	poo chau
 匍匐	poo hok
+部分	poo hun
 部份	poo hun
 部下	poo ha
 部落	poo lok
@@ -29487,7 +29489,7 @@ use_preset_vocabulary: false
 屈頭路	khut thau loo
 屈頭軍	khut thau kun
 窟仔	khut a
-蜷佛	khun hut
+蜷伏	khun hok
 阮囝
 阮某
 阮翁
@@ -32794,7 +32796,7 @@ use_preset_vocabulary: false
 溫哥華	un ko hua
 古巴	koo pa
 巴西	pa se
-秘魯	pi loo
+祕魯	pi loo
 阿根廷	a kirn ting
 ##	中國
 香港	hIang kang
