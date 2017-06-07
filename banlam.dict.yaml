@@ -8243,6 +8243,9 @@ use_preset_vocabulary: false
 掌	cIang2	10
 將	cIang3
 爵	cIak4
+酌	cIak4
+灼	cIak4
+芍	cIak4
 狀	cIang7
 嚼	cIak8
 昌	chIang1
@@ -8577,6 +8580,9 @@ use_preset_vocabulary: false
 爵士	cIak sur
 爵爺	cIak ia
 爵位	cIak ui
+酌量	cIak lIang
+酌情	cIak cing
+灼見	cIak kian
 狀元	cIang guan
 狀元紅	cIang guan hong
 狀元餅	cIang guan piann
@@ -10962,7 +10968,7 @@ use_preset_vocabulary: false
 脈管	meeh kuInn
 脈象	meeh sIang
 脈搏	meeh phok
-硩死	teeeh si
+硩死	teeh si
 硩著	teeh tioh
 硩落去	teeh loh khIR
 硩驚	teeh kiann
@@ -11785,7 +11791,6 @@ use_preset_vocabulary: false
 井水	cenn cui
 井邊	cenn pinn
 井底	cenn tere
-箭頭	cenn thau
 諍有	cenn u
 諍無	cenn bo
 諍死諍活	cenn si cenn uah
@@ -14040,6 +14045,7 @@ use_preset_vocabulary: false
 挕捒	hinn sak
 挕擲捒	hinn tan sak
 硯台	hinn tai
+箭頭	cinn thau
 糋棗	cinn co
 糋粿	cinn ker
 錢銀	cinn gern
@@ -14403,7 +14409,7 @@ use_preset_vocabulary: false
 熊膽	him tann
 熊貓	him niau
 熊貓	khim niau
-斟酌	cim ciok
+斟酌	cim cIak
 枕頭	cim thau
 枕頭囊	cim thau long
 嬸婆	cim po
@@ -23898,8 +23904,8 @@ use_preset_vocabulary: false
 無線
 無線電
 無張持	bo tiunn ti
-無斟酌	bo cim ciok
-無斟無酌	bo cim bo ciok
+無斟酌	bo cim cIak
+無斟無酌	bo cim bo cIak
 無膽	bo tann
 無代無誌	bo tai bo ci
 無代誌	bo tai ci
@@ -25303,7 +25309,7 @@ use_preset_vocabulary: false
 獨木橋	tok bok kio
 獨一	tok it
 獨行	tok hing
-獨酌	tok ciok
+獨酌	tok cIak
 獨占	tok ciam
 獨用	tok iong
 獨有	tok iu
@@ -26824,6 +26830,7 @@ use_preset_vocabulary: false
 郁	hiok4
 謔	hiok4
 頊	hiok4
+彧	hiok4
 雄	hiong5	10
 終	ciong1	10
 鐘	ciong1	0%
@@ -26835,11 +26842,8 @@ use_preset_vocabulary: false
 種	ciong3
 足	ciok4
 祝	ciok4
-酌	ciok4
 燭	ciok4
 粥	ciok4
-灼	ciok4
-芍	ciok4
 囑	ciok4
 矚	ciok4
 從	ciong5	10
@@ -27235,9 +27239,6 @@ use_preset_vocabulary: false
 祝賀	ciok ho
 祝福	ciok hok
 祝壽	ciok siu
-酌量	ciok liong
-酌情	ciok cing
-灼見	ciok kian
 囑咐	ciok hu
 從來	ciong lai
 從來	cing lai
