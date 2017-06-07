@@ -7219,6 +7219,8 @@ use_preset_vocabulary: false
 折	siat8
 煙火	ian her
 煙筒	ian tang
+煙腸	ian chiang
+煙腸	ian chian	#臺
 煙花	ian huee
 煙塵	ian thun
 煙霧	ian bu
@@ -8089,6 +8091,7 @@ use_preset_vocabulary: false
 蹌	chiang2
 唱	chiang3
 沖	chiang5
+腸	chiang5
 雙	siang1
 雙	sang1	#泉
 誰	siang5	1%	10
@@ -10226,6 +10229,7 @@ use_preset_vocabulary: false
 罐仔	kuan a
 灌木	kuan bok
 灌腸	kuan tng
+灌腸	kuan chiang
 灌水	kuan cui
 灌風	kuan huang
 灌風	kuan hong
@@ -29564,6 +29568,9 @@ use_preset_vocabulary: false
 粉塗	hun thoo
 粉條	hun tiau
 粉餅	hun piann
+粉腸	hun tng
+粉腸	hun chiang
+粉腸	hun chian	#臺
 訓練	hun lian
 訓蒙	hun bong
 訓示	hun si
