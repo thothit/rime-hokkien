@@ -80,7 +80,7 @@ speller:
     #- derive/erng/ng/		#市區、海口
     #- derive/7/3/		#陰陽去本調
     #- derive/ir/i/		#海口腔
-    #- derive/er(h?)(.)/e$1$2/		#海口腔
+    #- derive/er([^eptkmng]*)(h?)$/e$1$2/		#海口腔
     #- derive/6/1/		#海口腔
     #- derive/iO/er/		#永春
     #- derive/aInn/ing/	#山內腔（永春、安溪…）
